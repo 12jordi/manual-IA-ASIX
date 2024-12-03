@@ -11,6 +11,8 @@
 
 4. Propostes per minimitzar els impactes ambientals: Migrar els sistemes a centres de dades més sostenibles, utilitzar tecnologies com edge computing per reduir el processament al núvol i implementar models més eficients en l’ús de recursos.
 
+5. Link a la web:  [Darktrace](https://darktrace.com/)
+
 ### Tenable .io
 
 1. Aplicacions de la IA: Identificar configuracions errònies, sistemes obsolets i vulnerabilitats conegudes, prioritzant les que tenen més risc.
