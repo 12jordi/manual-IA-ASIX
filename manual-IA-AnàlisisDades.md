@@ -1,3 +1,6 @@
+# Manual IA
+
+
 #App: Google BigQuery ML
 
 #Imp.sector: Facilita la creació de models predictius sobre grans volums de dades, millora l'eficiència, redueix costos i temps, i permet una millor personalització i presa de decisions en les empreses.
