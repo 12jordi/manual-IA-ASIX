@@ -7,7 +7,7 @@
 #### Impacte al sector:
 Augmenta la productivitat: Els desenvolupadors poden escriure codi més ràpidament gràcies als suggeriments de codi proporcionats per Copilot.
 Millora la qualitat del codi: Ajudant a escriure codi més net i amb menys errors, ja que Copilot suggereix millors pràctiques basades en exemples.
-
+ 
 #### Impacte ambiental:
 Potència computacional: La generació de suggeriments de codi en temps real requereix una gran quantitat de poder computacional, incrementant el consum energètic, especialment en els servidors al núvol on s'executa la IA.
 
