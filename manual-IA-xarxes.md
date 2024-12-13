@@ -35,6 +35,7 @@ La IA en QoS pot reduir l’impacte ambiental optimitzant el consum energètic, 
 Per minimitzar l’impacte ambiental de la IA en QoS, es poden adoptar algunes accions clau: utilitzar algoritmes energèticament eficients, alimentar infraestructures amb energies renovables, implementar refrigeració avançada, distribuir la càrrega de processament, monitorar l’impacte ambiental en temps real i fomentar la reutilització d’equipaments.
 
 3. ### [Anàlisi de vulnerabilitats i gestió de riscos](https://www.unite.ai/ca/conducting-vulnerability-assessments-with-ai/)
+   ![](https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/gawtmnewzhktxzghxde9)
    L'anàlisi de vulnerabilitats i gestió de riscos amb IA identifica punts febles en sistemes i xarxes, prediu possibles atacs mitjançant aprenentatge automàtic, i automatitza respostes per mitigar riscos. També permet gestionar els riscos de manera contínua i optimitzar els recursos per protegir millor els actius crítics de l’organització.
 
 #### Impacte al sector:
