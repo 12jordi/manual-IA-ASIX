@@ -1,5 +1,4 @@
-# manual-IA-ASIX
-## Darktrace.
+# Darktrace.
 
 1. Aplicacions de la IA: Identificar comportaments anòmals a la xarxa, detectar trànsit sospitós o maliciós en temps real, i predir atacs basats en patrons històrics.
 
@@ -9,7 +8,9 @@
 
 4. Propostes per minimitzar els impactes ambientals: Migrar els sistemes a centres de dades més sostenibles, utilitzar tecnologies com edge computing per reduir el processament al núvol i implementar models més eficients en l’ús de recursos.
 
-## Tenable .io
+[Darktrace] (https://darktrace.com/es)
+
+# Tenable .io
 
 1. Aplicacions de la IA: Identificar configuracions errònies, sistemes obsolets i vulnerabilitats conegudes, prioritzant les que tenen més risc.
 
@@ -18,3 +19,5 @@
 3. Impacte ambiental: L’anàlisi constant de grans sistemes consumeix una quantitat significativa d’energia.
 
 4. Propostes per minimitzar els impactes ambientals: Utilitzar IA basada en algoritmes optimitzats i limitar les exploracions a intervals més efectius, combinat amb fonts d’energia renovables.
+
+[Tenable.io](https://www.tenable.com/products/vulnerability-management)
