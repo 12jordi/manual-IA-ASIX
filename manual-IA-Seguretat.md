@@ -1,3 +1,4 @@
+## Gestió de la Seguretat
 1. ### [Darktrace](https://darktrace.com/es)
 
 * Aplicacions de la IA: Identificar comportaments anòmals a la xarxa, detectar trànsit sospitós o maliciós en temps real, i predir atacs basats en patrons històrics.
