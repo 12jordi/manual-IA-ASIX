@@ -1,5 +1,5 @@
 
-1. ### [Cisco AI Network Analytics]([https://github.com/features/copilot](https://www.cisco.com/c/en/us/td/docs/cloud-systems-management/network-automation-and-management/dna-center-assurance/2-3-5/b_cisco_dna_assurance_2_3_5_ug/b_cisco_dna_assurance_2_3_3_ug_chapter_010.html))
+1. ### [Cisco AI Network Analytics](https://www.cisco.com/c/en/us/td/docs/cloud-systems-management/network-automation-and-management/dna-center-assurance/2-3-5/b_cisco_dna_assurance_2_3_5_ug/b_cisco_dna_assurance_2_3_3_ug_chapter_010.html)
     GitHub Copilot és una eina d'autocompletat de codi basada en intel·ligència artificial que suggereix línies de codi i funcions mentre programes, millorant la productivitat i agilitzant el  procés de desenvolupament.
   
    * Generació automàtica de codi: GitHub Copilot utilitza IA per suggerir línies de codi o fins i tot funcions completes mentre un desenvolupador escriu, basant-se en el context del codi  existent.
@@ -14,7 +14,7 @@ Redueix l’impacte ambiental optimitzant el consum energètic, minimitzant recu
 #### Propostes per minimitzar els impactes ambientals:
 Per minimitzar l'impacte ambiental de les IA de xarxa com Cisco AI Network Analytics, es poden utilitzar energia renovable, optimitzar el consum energètic, reduir el maquinari físic i gestionar les dades de manera eficient.
 
-2. ### [Optimització del trànsit i la qualitat del servei (QoS)](https://sourcery.ai/)
+2. ### [Optimització del trànsit i la qualitat del servei (QoS)](https://www.tokioschool.com/noticias/qos/)
    
   L’IA per a QoS optimitza el trànsit de xarxes, redueix congestions, prioritza serveis crítics i s’adapta als canvis en temps real. Es fa servir en 5G, núvols i empreses per millorar rendiment i eficiència amb menys costos.
     
@@ -34,7 +34,7 @@ La IA en QoS pot reduir l’impacte ambiental optimitzant el consum energètic, 
 #### Propostes per minimitzar els impactes ambientals:
 Per minimitzar l’impacte ambiental de la IA en QoS, es poden adoptar algunes accions clau: utilitzar algoritmes energèticament eficients, alimentar infraestructures amb energies renovables, implementar refrigeració avançada, distribuir la càrrega de processament, monitorar l’impacte ambiental en temps real i fomentar la reutilització d’equipaments.
 
-3. ### [Anàlisi de vulnerabilitats i gestió de riscos](https://www.tabnine.com/)
+3. ### [Anàlisi de vulnerabilitats i gestió de riscos](https://www.unite.ai/ca/conducting-vulnerability-assessments-with-ai/)
    L'anàlisi de vulnerabilitats i gestió de riscos amb IA identifica punts febles en sistemes i xarxes, prediu possibles atacs mitjançant aprenentatge automàtic, i automatitza respostes per mitigar riscos. També permet gestionar els riscos de manera contínua i optimitzar els recursos per protegir millor els actius crítics de l’organització.
 
 #### Impacte al sector:
