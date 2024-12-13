@@ -10,7 +10,7 @@
 
 [Darktrace](https://darktrace.com/es)
 
-(https://i.ytimg.com/vi/t3yRs-Wf_Dk/maxresdefault.jpg)
+![](https://i.ytimg.com/vi/t3yRs-Wf_Dk/maxresdefault.jpg)
 
 # Tenable .io
 
