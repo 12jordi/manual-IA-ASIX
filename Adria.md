@@ -23,3 +23,5 @@
 4. Propostes per minimitzar els impactes ambientals: Utilitzar IA basada en algoritmes optimitzats i limitar les exploracions a intervals més efectius, combinat amb fonts d’energia renovables.
 
 [Tenable.io](https://www.tenable.com/products/vulnerability-management)
+
+![](https://www.tenable.com/themes/custom/tenable/images-new/tenable-io/VM-Overview.png)
