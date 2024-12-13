@@ -103,7 +103,7 @@ Adoptant aquestes propostes, les empreses poden millorar la sostenibilitat de l'
 
 3. ### [Microsoft Azure Machine Learning:](https://azure.microsoft.com/es-es/products/machine-learning)
   Plataforma d'IA que facilita l'anàlisi de dades mitjançant l'aprenentatge automàtic, permetent crear models predictius i obtenir informació per a la presa de decisions en temps real.
-
+![Logo] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2021%2F09%2Fa-comprehensive-guide-on-using-azure-machine-learning%2F&psig=AOvVaw3rfmH8v7ZRalFj3MKbJ6bS&ust=1734174013110000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi9seLLpIoDFQAAAAAdAAAAABAE)
 #### Impacte al sector:
 **Microsoft Azure Machine Learning** té un impacte significatiu en el sector, aportant innovació i eficiència en la manera com les organitzacions utilitzen l'aprenentatge automàtic i la intel·ligència artificial per resoldre problemes i millorar processos. Algunes de les àrees més destacades en què influència són:
 
