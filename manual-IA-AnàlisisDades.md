@@ -102,8 +102,9 @@ Per minimitzar l'impacte ambiental d'**IBM Watson Analytics** i altres eines sim
 Adoptant aquestes propostes, les empreses poden millorar la sostenibilitat de l'ús d'IBM Watson Analytics i reduir el seu impacte ambiental, millorant alhora l'eficiència operativa i contribuint a un futur més ecològic.
 
 3. ### [Microsoft Azure Machine Learning:](https://azure.microsoft.com/es-es/products/machine-learning)
+   ![Logo](https://ms-air-aiagility.gallerycdn.vsassets.io/extensions/ms-air-aiagility/vss-services-azureml/1.0.22/1692136205890/Microsoft.VisualStudio.Services.Icons.Default)
   Plataforma d'IA que facilita l'anàlisi de dades mitjançant l'aprenentatge automàtic, permetent crear models predictius i obtenir informació per a la presa de decisions en temps real.
-![Logo](https://ms-air-aiagility.gallerycdn.vsassets.io/extensions/ms-air-aiagility/vss-services-azureml/1.0.22/1692136205890/Microsoft.VisualStudio.Services.Icons.Default)
+
 #### Impacte al sector:
 **Microsoft Azure Machine Learning** té un impacte significatiu en el sector, aportant innovació i eficiència en la manera com les organitzacions utilitzen l'aprenentatge automàtic i la intel·ligència artificial per resoldre problemes i millorar processos. Algunes de les àrees més destacades en què influència són:
 
