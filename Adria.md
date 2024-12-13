@@ -8,7 +8,7 @@
 
 4. Propostes per minimitzar els impactes ambientals: Migrar els sistemes a centres de dades més sostenibles, utilitzar tecnologies com edge computing per reduir el processament al núvol i implementar models més eficients en l’ús de recursos.
 
-[Darktrace] (https://darktrace.com/es)
+[Darktrace](https://darktrace.com/es)
 
 # Tenable .io
 
