@@ -1,9 +1,6 @@
 
 1. ### [Cisco AI Network Analytics](https://www.cisco.com/c/en/us/td/docs/cloud-systems-management/network-automation-and-management/dna-center-assurance/2-3-5/b_cisco_dna_assurance_2_3_5_ug/b_cisco_dna_assurance_2_3_3_ug_chapter_010.html)
-    GitHub Copilot és una eina d'autocompletat de codi basada en intel·ligència artificial que suggereix línies de codi i funcions mentre programes, millorant la productivitat i agilitzant el  procés de desenvolupament.
-  
-   * Generació automàtica de codi: GitHub Copilot utilitza IA per suggerir línies de codi o fins i tot funcions completes mentre un desenvolupador escriu, basant-se en el context del codi  existent.
-   * Ajuda a escriure documentació: Pot generar documentació per a funcions, classes i mètodes de manera automàtica, basant-se en els comentaris de codi.
+   
     
 #### Impacte al sector:
 És una eina que fa les xarxes més intel·ligents i segures, automatitzant tasques, millorant el rendiment i protegint contra amenaces, tot estalviant temps i costos.
