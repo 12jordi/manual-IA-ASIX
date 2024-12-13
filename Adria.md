@@ -10,7 +10,7 @@
 
 ![](https://i.ytimg.com/vi/t3yRs-Wf_Dk/maxresdefault.jpg)
 
-1. ### [Tenable.io](https://www.tenable.com/products/vulnerability-management)
+2. ### [Tenable.io](https://www.tenable.com/products/vulnerability-management)
 
 * Aplicacions de la IA: Identificar configuracions errònies, sistemes obsolets i vulnerabilitats conegudes, prioritzant les que tenen més risc.
 
