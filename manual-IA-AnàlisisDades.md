@@ -16,6 +16,7 @@ reduint la necessitat de recursos físics i energia en comparació amb altres so
 Per minimitzar l'impacte ambiental de Google BigQuery ML, es poden aplicar mesures com l'ús d'energia renovable, l'optimització dels models d'IA, la millora de l'eficiència en el processament de dades i la reutilització de maquinari.
 
 2. ### [IBM Watson Analytics:)](https://www.ibm.com/analytics/mx/es/watson-data-platform/)
+   ![logo](https://catalog.cloudblue.com/wp-content/uploads/2021/05/PRD-252-472-275-logo_ZXOI06j.png)
    
 Utilitza IA per analitzar dades, identificar patrons i proporcionar informació útil mitjançant visualitzacions automàtiques i prediccions, ajudant a prendre decisions basades en dades.
 
