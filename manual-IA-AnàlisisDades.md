@@ -15,7 +15,7 @@ reduint la necessitat de recursos físics i energia en comparació amb altres so
 
 Per minimitzar l'impacte ambiental de Google BigQuery ML, es poden aplicar mesures com l'ús d'energia renovable, l'optimització dels models d'IA, la millora de l'eficiència en el processament de dades i la reutilització de maquinari.
 
-2. ### [IBM Watson Analytics:)]([https://sourcery.ai/](https://www.ibm.com/analytics/mx/es/watson-data-platform/))
+2. ### [IBM Watson Analytics:)](https://www.ibm.com/analytics/mx/es/watson-data-platform/))
    
 Utilitza IA per analitzar dades, identificar patrons i proporcionar informació útil mitjançant visualitzacions automàtiques i prediccions, ajudant a prendre decisions basades en dades.
 
@@ -101,7 +101,7 @@ Per minimitzar l'impacte ambiental d'**IBM Watson Analytics** i altres eines sim
 ### **Conclusió:**
 Adoptant aquestes propostes, les empreses poden millorar la sostenibilitat de l'ús d'IBM Watson Analytics i reduir el seu impacte ambiental, millorant alhora l'eficiència operativa i contribuint a un futur més ecològic.
 
-3. ### [Microsoft Azure Machine Learning:]([https://www.tabnine.com/](https://azure.microsoft.com/es-es/products/machine-learning))
+3. ### [Microsoft Azure Machine Learning:](https://azure.microsoft.com/es-es/products/machine-learning))
   Plataforma d'IA que facilita l'anàlisi de dades mitjançant l'aprenentatge automàtic, permetent crear models predictius i obtenir informació per a la presa de decisions en temps real.
 
 #### Impacte al sector:
