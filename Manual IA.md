@@ -13,6 +13,8 @@
 
 5. Link a la web:  [Darktrace](https://darktrace.com/)
 
+![](https://i.ytimg.com/vi/t3yRs-Wf_Dk/maxresdefault.jpg)
+
 ### Tenable.io
 
 1. Aplicacions de la IA: Identificar configuracions errònies, sistemes obsolets i vulnerabilitats conegudes, prioritzant les que tenen més risc.
@@ -24,3 +26,5 @@
 4. Propostes per minimitzar els impactes ambientals: Utilitzar IA basada en algoritmes optimitzats i limitar les exploracions a intervals més efectius, combinat amb fonts d’energia renovables.
 
 5. Link a la web: [Tenable.io](https://www.tenable.com/products/vulnerability-management)
+
+![](https://www.tenable.com/themes/custom/tenable/images-new/tenable-io/VM-Overview.png)
