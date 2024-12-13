@@ -10,6 +10,8 @@
 
 [Darktrace](https://darktrace.com/es)
 
+(https://i.ytimg.com/vi/t3yRs-Wf_Dk/maxresdefault.jpg)
+
 # Tenable .io
 
 1. Aplicacions de la IA: Identificar configuracions errònies, sistemes obsolets i vulnerabilitats conegudes, prioritzant les que tenen més risc.
