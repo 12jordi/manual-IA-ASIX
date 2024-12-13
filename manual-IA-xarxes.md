@@ -16,21 +16,23 @@ Per minimitzar l'impacte ambiental de les IA de xarxa com Cisco AI Network Analy
 
 2. ### [Optimització del trànsit i la qualitat del servei (QoS)](https://sourcery.ai/)
    
-    Sourcery és una eina d'optimització de codi per a Python que analitza el codi font i suggereix millores, com ara refactoritzacions i correccions d'estil, per fer-lo més net, eficient i llegible.
-  
-    * Refactorització de codi: Sourcery utilitza IA per analitzar i millorar el codi Python, proposant canvis per fer-lo més eficient, llegible i mantenible.
-    * Detecta bugs i problemes: Identifica possibles errors i proposa correccions per evitar problemes futurs.
+  L’IA per a QoS optimitza el trànsit de xarxes, redueix congestions, prioritza serveis crítics i s’adapta als canvis en temps real. Es fa servir en 5G, núvols i empreses per millorar rendiment i eficiència amb menys costos.
     
 #### Impacte al sector:
-Millora de la qualitat del codi: Redueix la quantitat de codi duplicat, millora l'eficiència del codi i fa que sigui més fàcil de mantenir.
-Automatització de la refactorització: Automatitza tasques que abans requerien revisió manual, estalviant temps i recursos als equips de desenvolupament.
+L'impacte de la IA en la gestió de QoS al sector és significatiu:
+
+Millora de l’eficiència operativa: Automatitza processos de gestió de xarxes, reduint errors humans i costos.
+Experiència d’usuari millorada: Garantitza connexions més ràpides i fiables per a aplicacions crítiques com streaming, IoT i 5G.
+Competitivitat empresarial: Permet a empreses i operadors oferir serveis de qualitat superior, augmentant la satisfacció del client.
+Adaptació a la demanda creixent: Gestiona l’augment exponencial de trànsit per aplicacions com videoconferències, jocs en línia i dispositius connectats.
+Reducció de costos: Optimitza l'ús de recursos i retarda la necessitat d’inversions en infraestructures físiques.
 
 #### Impacte ambiental:
-Com altres eines d'IA, la potència computacional que es requereix per executar la IA en temps real pot augmentar la petjada de carboni, sobretot en projectes grans.
+
+La IA en QoS pot reduir l’impacte ambiental optimitzant el consum energètic, gestionant millor els recursos i retardant l’expansió d’infraestructures. Tanmateix, el seu ús també pot augmentar el consum energètic i la generació de calor si no es gestiona eficientment.
 
 #### Propostes per minimitzar els impactes ambientals:
-Fer servir infraestructures de núvol més eficients i amb una millor gestió energètica.
-Optimitzar els algoritmes d'IA per reduir el nombre de recursos necessaris per a la refactorització i l'anàlisi.
+Per minimitzar l’impacte ambiental de la IA en QoS, es poden adoptar algunes accions clau: utilitzar algoritmes energèticament eficients, alimentar infraestructures amb energies renovables, implementar refrigeració avançada, distribuir la càrrega de processament, monitorar l’impacte ambiental en temps real i fomentar la reutilització d’equipaments.
 
 3. ### [TabNine](https://www.tabnine.com/)
     Tabnine és una eina d'autocompletat de codi basada en intel·ligència artificial que ajuda els desenvolupadors a escriure codi més ràpidament, oferint suggeriments de codi i completant línies   en temps real per diversos llenguatges de programació.
