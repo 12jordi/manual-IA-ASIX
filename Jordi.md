@@ -1,3 +1,8 @@
+## IA de desenvolupament
+Una IA de desenvolupament fa referència a l'ús d'intel·ligència artificial per ajudar en el desenvolupament de programari, aplicacions o projectes tecnològics. 
+
+
+
 1. ### [Github copilot](https://github.com/features/copilot)
     GitHub Copilot és una eina d'autocompletat de codi basada en intel·ligència artificial que suggereix línies de codi i funcions mentre programes, millorant la productivitat i agilitzant el  procés de desenvolupament.
   
