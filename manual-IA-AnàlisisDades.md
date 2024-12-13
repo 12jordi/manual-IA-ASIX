@@ -1,5 +1,6 @@
 
 1. ### [Google BigQuery ML](https://cloud.google.com/bigquery/docs/bqml-introduction)
+   ![](https://www.ancoris.com/hubfs/Google%20Cloud%20Logos/BigQuery.png)
 
  **Google BigQuery ML** és una eina d'intel·ligència artificial integrada a Google BigQuery que permet crear, entrenar i desplegar models d'aprenentatge automàtic directament sobre grans volums de dades emmagatzemades a BigQuery, utilitzant SQL. Facilita la predicció en temps real i l'anàlisi de dades, sense necessitat de moure-les a altres plataformes. És útil per a tasques com la classificació de clients o la previsió de demanda, i destaca per la seva escalabilitat, simplicitat i integració amb altres serveis de Google Cloud.
  
