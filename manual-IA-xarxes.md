@@ -1,6 +1,8 @@
 
 1. ### [Cisco AI Network Analytics](https://www.cisco.com/c/en/us/td/docs/cloud-systems-management/network-automation-and-management/dna-center-assurance/2-3-5/b_cisco_dna_assurance_2_3_5_ug/b_cisco_dna_assurance_2_3_3_ug_chapter_010.html)
-   
+
+   ![](![image](https://github.com/user-attachments/assets/88ab62f5-b786-496a-9ef9-7eeff5411948)
+
     
 #### Impacte al sector:
 És una eina que fa les xarxes més intel·ligents i segures, automatitzant tasques, millorant el rendiment i protegint contra amenaces, tot estalviant temps i costos.
