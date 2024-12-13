@@ -34,7 +34,7 @@ La IA en QoS pot reduir l’impacte ambiental optimitzant el consum energètic, 
 #### Propostes per minimitzar els impactes ambientals:
 Per minimitzar l’impacte ambiental de la IA en QoS, es poden adoptar algunes accions clau: utilitzar algoritmes energèticament eficients, alimentar infraestructures amb energies renovables, implementar refrigeració avançada, distribuir la càrrega de processament, monitorar l’impacte ambiental en temps real i fomentar la reutilització d’equipaments.
 
-3. ### [TabNine](https://www.tabnine.com/)
+3. ### [Anàlisi de vulnerabilitats i gestió de riscos](https://www.tabnine.com/)
     Tabnine és una eina d'autocompletat de codi basada en intel·ligència artificial que ajuda els desenvolupadors a escriure codi més ràpidament, oferint suggeriments de codi i completant línies   en temps real per diversos llenguatges de programació.
     * Autocompletar codi: Tabnine és un autocompletador de codi que utilitza IA per suggerir codi basat en el context del projecte.
     * Suport per a múltiples llenguatges de programació: Suporta una àmplia gamma de llenguatges, des de JavaScript fins a Python, Java, C++, entre altres.
