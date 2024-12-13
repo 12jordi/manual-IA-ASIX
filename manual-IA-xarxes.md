@@ -14,6 +14,7 @@ Redueix l’impacte ambiental optimitzant el consum energètic, minimitzant recu
 Per minimitzar l'impacte ambiental de les IA de xarxa com Cisco AI Network Analytics, es poden utilitzar energia renovable, optimitzar el consum energètic, reduir el maquinari físic i gestionar les dades de manera eficient.
 
 2. ### [Optimització del trànsit i la qualitat del servei (QoS)](https://www.tokioschool.com/noticias/qos/)
+  ![image](https://www.abast.es/wp-content/uploads/2019/07/logo_ABAST_q1.png)
    
   L’IA per a QoS optimitza el trànsit de xarxes, redueix congestions, prioritza serveis crítics i s’adapta als canvis en temps real. Es fa servir en 5G, núvols i empreses per millorar rendiment i eficiència amb menys costos.
     
